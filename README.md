@@ -1,45 +1,41 @@
-# Restaurant-Menu-Ordering-System
+#  Restaurant Ordering System in C++
 
-# 🎬 Movie Ticket Booking System in C++
+##  Overview
+The **Restaurant Ordering System** is a console-based application developed in **C++** using **Object-Oriented Programming (OOP)** principles.  
+It simulates a real-world restaurant workflow — from browsing menus and placing orders to generating a detailed bill with taxes.
 
-## 📖 Overview
-This project is a **Movie Ticket Booking System** built entirely in **C++**, designed to simulate real-world booking operations such as:
-- Movie selection  
-- Seat allocation  
-- Ticket pricing  
-- Payment validation  
-- Card number generation for each user  
-
-It uses **modular programming** principles and reinforces concepts like **arrays, structures, functions, and file handling**.
+This project demonstrates the use of:
+- Classes and Structures  
+- STL Containers (`vector`, `unordered_map`)  
+- Input validation  
+- Modular code organization  
 
 ---
 
 ##  Features
- **User Registration:** Allows new users to register and existing users to log in  
- **Movie Selection:** Choose from a list of available movies  
- **Seat Booking:** Select seats interactively  
- **Payment System:** Simulated payment confirmation and receipt generation  
- **Ticket Summary:** Displays full booking details at the end  
+ **Category-based Menu:** Separate Veg and Non-Veg sections  
+ **Dynamic Ordering:** Add, remove, and update order quantities  
+ **Cart Management:** View and edit your current order anytime  
+ **Automated Billing:** Calculates subtotal, tax (10%), and final total  
+ **Input Validation:** Ensures safe and user-friendly input handling  
+ **Object-Oriented Design:** Clean, modular, and extendable code  
 
 ---
 
 ##  Concepts Used
-- Functions and Modular Programming  
-- Arrays and Strings  
-- Structures (`struct`)  
-- Loops and Conditional Statements  
-- File Handling (optional version)  
-- Input Validation and Error Checking  
+| Concept | Description |
+|----------|-------------|
+| **Classes & Objects** | Organized structure and functionality |
+| **Vectors** | Store and iterate menu items efficiently |
+| **Unordered Map** | Manage user orders (key-value pairs) |
+| **Functions** | Modular approach for clarity |
+| **Input Validation** | Prevents invalid or unexpected user inputs |
+| **Formatting (iomanip)** | Used for clean, aligned console output |
 
 ---
 
-##  Tech Stack
-| Component | Description |
-|------------|-------------|
-| **Language** | C++ |
-| **IDE** | Code::Blocks / Dev-C++ / Visual Studio |
-| **OS Compatibility** | Windows / Linux / macOS |
-
----
-
-## 📸 Sample Output
+##  Sample Output
+![4](https://github.com/user-attachments/assets/388d63e3-4265-42fb-a1a3-b0b844f5854c)
+![3](https://github.com/user-attachments/assets/e6d844e0-0426-4bd2-873b-6fbfee7c3a53)
+![2](https://github.com/user-attachments/assets/3583fd14-5ace-4050-a9a7-9775a425e71c)
+![1](https://github.com/user-attachments/assets/2cb0df1e-9478-4f2a-b925-1d6123d83f7f)
